@@ -1,0 +1,335 @@
+afghanistan
+albania
+algeria
+andorra
+angola
+argentina
+armenia
+australia
+austria
+azerbaijan
+bahamas
+bahrain
+bangladesh
+barbados
+belarus
+belgium
+belize
+benin
+bhutan
+bolivia
+botswana
+brazil
+brunei
+bulgaria
+burkina
+burundi
+cambodia
+cameroon
+canada
+cape verde
+chad
+chile
+china
+colombia
+comoros
+congo
+costa rica
+croatia
+cuba
+cyprus
+czech republic
+denmark
+djibouti
+dominica
+dominican republic
+east timor
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+ethiopia
+fiji
+finland
+france
+gabon
+gambia
+georgia
+germany
+ghana
+greece
+grenada
+guatemala
+guinea
+guinea-bissau
+guyana
+haiti
+honduras
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+ivory coast
+jamaica
+japan
+jordan
+kazakhstan
+kenya
+kiribati
+korea north
+korea south
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+liechtenstein
+lithuania
+luxembourg
+macedonia
+madagascar
+malawi
+malaysia
+maldives
+mali
+malta
+marshall islands
+mauritania
+mauritius
+mexico
+micronesia
+moldova
+monaco
+mongolia
+montenegro
+morocco
+mozambique
+myanmar
+namibia
+nauru
+nepal
+netherlands
+new zealand
+nicaragua
+niger
+nigeria
+norway
+oman
+pakistan
+palau
+panama
+papua new guinea
+paraguay
+peru
+philippines
+poland
+portugal
+qatar
+romania
+russian federation
+rwanda
+st kitts & nevis
+st lucia
+samoa
+san marino
+sao tome & principe
+saudi arabia
+senegal
+serbia
+seychelles
+sierra leone
+singapore
+slovakia
+slovenia
+solomon islands
+somalia
+south africa
+south sudan
+spain
+sri lanka
+sudan
+suriname
+swaziland
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+togo
+tonga
+tunisia
+turkey
+turkmenistan
+tuvalu
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+uzbekistan
+vanuatu
+vatican city
+venezuela
+vietnam
+yemen
+zambia
+zimbabwe
+abbottabad
+abdul hakim
+aliabad
+alpurai
+athmuqam
+attock city
+awaran
+badin
+bagh
+bahawalnagar
+bahawalpur
+bannu
+barkhan
+batgram
+bhakkar
+chakwal
+chaman
+charsadda
+chilas
+chiniot
+chitral
+dadu
+daggar
+dainyor
+dalbandin
+dasu
+dera allahyar
+dera bugti
+dera ghazi khan
+dera ismail khan
+dera murad jamali
+eidgah
+faisalabad
+gakuch
+gandava
+ghotki
+gilgit
+gojra
+gujranwala
+gujrat
+gwadar
+hafizabad
+hangu
+haripur
+harunabad
+hasilpur
+hassan abdal
+hujra shah muqim
+hyderabad city
+islamabad
+jacobabad
+jalalpur jattan
+jamshoro
+jaranwala
+jhang city
+jhelum
+kabirwala
+kalat
+kamalia
+kandhkot
+karachi
+karak
+kasur
+khanewal
+khanpur
+kharan
+kharian
+khushab
+khuzdar
+khuzdar
+kohat
+kohlu
+kot addu
+kotli
+kulachi
+kundian
+lahore
+lakki
+lala musa
+larkana
+leiah
+lodhran
+loralai
+malakand
+mandi bahauddin
+mandi burewala
+mansehra
+mardan
+mastung
+matiari
+mian channun
+mianwali
+mingaora
+mirpur khas
+multan
+muridke
+musa khel bazar
+muzaffarabad
+muzaffargarh
+nankana sahib
+narowal
+naushahro firoz
+nawabshah
+new mirpur
+nowshera
+okara
+pakpattan
+panjgur
+parachinar
+pattoki
+peshawar
+pishin
+qila saifullah
+quetta
+rahimyar khan
+rajanpur
+rawala kot
+rawalpindi
+risalpur cantonment
+saddiqabad
+sahiwal
+saidu sharif
+sanghar
+sargodha
+shahdad kot
+shakargarh
+shekhupura
+shikarpur
+sialkot city
+sibi
+sukkur
+swabi
+tando allahyar
+tando muhammad khan
+tank
+thatta
+timargara
+toba tek singh
+turbat
+umarkot
+upper dir
+uthal
+vihari
+zhob
+ziarat
